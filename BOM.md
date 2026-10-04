@@ -8,6 +8,6 @@
 
 | Week | Tier | Parts funding |
 | --- | --- | --- |
-| Warm-up | Tier 1 | $30.00 |
+| Warm-up | Tier 2 | $65.00 |
 
 _No parts listed yet._
